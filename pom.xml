@@ -5,12 +5,12 @@
 
   <groupId>com.laaribi</groupId>
   <artifactId>parent</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <scm>
     <connection>scm:git:https://github.com/supnano/parent</connection>
     <developerConnection>scm:git:https://github.com/supnano/parent</developerConnection>
     <url>scm:git:https://github.com/supnano/parent</url>
-    <tag>v${releaseVersion}</tag>
+    <tag>HEAD</tag>
   </scm>
   <name>parent</name>
   <!-- FIXME change it to the project's website -->
